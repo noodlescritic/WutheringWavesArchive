@@ -19,3 +19,7 @@ Full version-by-version patch notes / changelogs.
 ---
 
 *Note: All game content (patch notes, announcements, known issues) belongs to Kuro Games. This is an unofficial, personal archive for reference purposes only.*
+
+## Official links
+- Website: https://wutheringwaves.kurogames.com/en/main/
+- Discord: https://discord.gg/wutheringwaves
