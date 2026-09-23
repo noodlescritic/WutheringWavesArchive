@@ -16,6 +16,9 @@ Full version-by-version patch notes / changelogs.
 
 [Click here](https://github.com/noodlescritic/WutheringWavesArchive/tree/main/Patch-Notes)
 
+### ●Miscs
+[Click here](https://github.com/noodlescritic/WutheringWavesArchive/tree/main/Miscs)
+
 ---
 
 *Note: All game content (patch notes, announcements, known issues) belongs to Kuro Games. This is an unofficial, personal archive for reference purposes only.*
