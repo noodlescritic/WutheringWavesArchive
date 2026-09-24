@@ -1,6 +1,6 @@
 # Required Storage Space across all versions
 | Version | Android / iOS | PC | Mac |
-| :---: | :---: | :---: | :---: |
+| :--- | :--- | :--- | :--- |
 | **Version 1.1** | 15 GB | 25 GB | N/A |
 | **Version 1.2** | 15 GB | 🔴 **30 GB (+5)** | N/A |
 | **Version 1.3** | 🔴 **16 GB (+1)** | 30 GB | N/A |
