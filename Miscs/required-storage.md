@@ -22,6 +22,7 @@
 | **Version 3.5** | 🔴 **60 GB (+10)** | 🟢 **115 GB (-20)** | 🔴 **155 GB (+20)** |
 | **Version 3.6** | 🔴 **65 GB (+5)** | 🟢 **110 GB (-5)** | 🔴 **160 GB (+5)** |
 | **Version 3.7** | 🟢 **60 GB (-5)** | 🟢 **100 GB (-10)** | 🟢 **150 GB (-10)** |
+| **Version 3.8** | 60 GB | 100 GB | 🔴 **155 GB (+5) |
 
 🔴 = storage increase · 🟢 = storage decrease · 🆕 = platform first supported
 
